@@ -6,6 +6,8 @@ public class HelloWorld{
 		
 		System.out.println("世界你好！")；
 	}
+	//美滋滋
+	//嘻嘻
 	public static void run(){
 		
 	}
