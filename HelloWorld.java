@@ -6,4 +6,7 @@ public class HelloWorld{
 		
 		System.out.println("世界你好！")；
 	}
+	public static void run(){
+		
+	}
 }
